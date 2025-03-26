@@ -1,2 +1,3 @@
-🔥Added more options 
-👨‍🔧some fix
+🔥interface editing 
+👨‍🔧more severe service killing
+👨‍🔧system optimization
