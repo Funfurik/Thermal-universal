@@ -1,11 +1,6 @@
 {
-    "id": "enchaned-disable-thermal-universal",
-    "name": "Danger thermal universal",
-    "version": "4.6",
+    "version": "4.5",
     "versionCode": 80,
-    "author": "@SeniorFurry",
-    "description": "Updated Danger thermal universal",
-    "Device": "basedonSnapdragon",
-    "changelogJson": "https://github.com/Funfurik/Thermal-universal/raw/main/changelog.json",
-    "downloadUrl": "https://github.com/Funfurik/Thermal-universal/releases/download/Thermal-universal-4.5/Danger.thermal.universal-4.5.zip"
+    "changelog": "https://github.com/Funfurik/Thermal-universal/raw/main/changelog.json",
+    "zipUrl": "https://github.com/Funfurik/Thermal-universal/releases/download/Thermal-universal-4.5/Danger.thermal.universal-4.5.zip"
 }
