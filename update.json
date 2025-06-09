@@ -1,0 +1,8 @@
+id=enchaned-disable-thermal-universal
+name=Danger thermal universal
+version=4.5
+versionCode=79
+author=@SeniorFurry
+description=Danger thermal universal
+Device=basedonSnapdragon
+changelogJson=https://github.com/Funfurik/Thermal-universal/raw/main/changelog.json
