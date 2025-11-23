@@ -1,9 +1,10 @@
 {
-    "version": "v4.7",
-    "versionCode": 81,
-    "zipUrl": "https://github.com/Funfurik/Thermal-universal/releases/download/Thermal-universal/Danger_thermal_universal-v4.7.zip",
+    "version": "v4.7.1",
+    "versionCode": 82,
+    "zipUrl": "https://github.com/Funfurik/Thermal-universal/releases/download/Thermal-universal-4.7.1/Danger.thermal.universal-v4.7.1.zip",
     "changelog": "https://raw.githubusercontent.com/Funfurik/Thermal-universal/refs/heads/main/changelog.md"
 }
+
 
 
 
