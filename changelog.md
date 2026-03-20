@@ -1,9 +1,9 @@
   `EN:`
-- `The project has been closed due to a lack of feedback and bug reports.`
+- `The project is closed, and @pompompobom is to blame for everything.`
 - `The manager will constantly show an update`
 
 `RU:`
-- `Проект закрыт из-за отсутствия отзывов и сообщений об ошибках..`
+- `Проект закрыт во всем виноват @pompompobom`
 - `Менеджер будет постоянно показывать обновления.`
 
 
