@@ -5,6 +5,7 @@
 - `Auto clear installation`
 - `It will be 2 reboots`
 - `Try fix install magisk`
+- `Fix error webui`
 
 
 
