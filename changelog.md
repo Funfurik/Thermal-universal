@@ -1,5 +1,5 @@
   `EN:`
-- `AiMode disabled`
+- `AiMode and BugReport disabled`
 - `Some changes`
 
 
