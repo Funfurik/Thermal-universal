@@ -13,4 +13,3 @@
 
   `Core:`
 - `Universal thermal throttling disable (Snapdragon)`
-- `AiMode and BugReport disabled`
