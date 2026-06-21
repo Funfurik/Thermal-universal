@@ -1,3 +1,9 @@
+  `Danger Thermal Universal — v4.8.7`
+
+  `New in this build:`
+- `WebUI now follows your phone's system language (full Russian / English interface)`
+- `The AI assistant now replies in your phone's system language`
+
   `Danger Thermal Universal — v4.8.6`
 
   `New in this build:`
