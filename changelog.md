@@ -1,5 +1,8 @@
 # Danger Thermal Universal — changelog
 
+## v4.8.9
+- Fix: the license-key prompt was showing on every WebUI tab. It now appears only on the AI tab — thermal features keep working without a key.
+
 ## v4.8.8
 - Fixed: after the 4.8.7 language update the WebUI AI chat froze on the "thinking…" indicator and never showed a reply. Resolved.
 - The AI assistant still answers in your phone's system language.
