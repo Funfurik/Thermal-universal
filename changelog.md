@@ -1,7 +1,8 @@
 # Danger Thermal Universal — changelog
 
-## v4.9.19-alpha
-- Fix: on phones with three CPU clusters the FPS overlay now detects all three clusters at their real max frequencies — before it collapsed every core onto the little cluster at its minimum clock.
+## v4.9.20-alpha
+- Internal cleanup: removed a leftover unused startup flag from the boot config; no change to thermal or overlay behavior
+- Installation only on KernelSU / APatch / SukiSU — Magisk and Kitsune Mask are no longer supported
 
 ## v4.9.18-alpha
 - Fix: the reboot fix shipped in 4.9.17 didn't fully take effect — the package still carried the old background-service binary, so after a reboot the FPS tile drew the overlay but only battery updated until you opened the WebUI once. The correct service binary (with the boot supervisor) is now bundled: tap the tile after a reboot and it counts FPS / frame time / GPU / DDR / NPU right away, no WebUI needed.
