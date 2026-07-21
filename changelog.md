@@ -1,5 +1,10 @@
 # Danger Thermal Universal — changelog
 
+## v4.9.21-alpha
+- Fix: after updating to 4.9.20 the WebUI info tiles (version / CPU / GPU / RAM / temperature / CPU trip / ZRAM) could show only blank dashes — the previous package accidentally bundled an older interface core. The current interface is restored and the tiles read correctly again.
+- Fix: startup performance tuning now runs from the boot service about 30 seconds after the system finishes booting, instead of during early boot — smoother, more reliable start.
+- Installation stays limited to KernelSU / APatch / SukiSU.
+
 ## v4.9.20-alpha
 - Internal cleanup: removed a leftover unused startup flag from the boot config; no change to thermal or overlay behavior
 - Installation only on KernelSU / APatch / SukiSU — Magisk and Kitsune Mask are no longer supported
