@@ -1,5 +1,10 @@
 # Danger Thermal Universal — changelog
 
+## v4.9.23-alpha
+- Fix: after recent updates the WebUI could load blank and the AI-assistant chat and license/key activation would not bind — the info tiles showed only dashes, the device ID read "—", and temperature changes did not apply. This build restores the interface and re-syncs the module's internal integrity anchor, so the WebUI, the chat, key activation and thermal control all work again.
+- No change to thermal, overlay or FPS behavior — those keep working.
+- Installation stays limited to KernelSU / APatch / SukiSU. Reinstall this version and reboot once to apply.
+
 ## v4.9.21-alpha
 - Fix: after updating to 4.9.20 the WebUI info tiles (version / CPU / GPU / RAM / temperature / CPU trip / ZRAM) could show only blank dashes — the previous package accidentally bundled an older interface core. The current interface is restored and the tiles read correctly again.
 - Fix: startup performance tuning now runs from the boot service about 30 seconds after the system finishes booting, instead of during early boot — smoother, more reliable start.
