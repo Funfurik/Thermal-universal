@@ -1,1 +1,1 @@
-https://kissing-cities-displayed-prior.trycloudflare.com
+https://api.trycloudflare.com
