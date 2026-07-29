@@ -6,6 +6,6 @@ I am just a hobbyist of creating modules, not a real developer, but I am ready t
 
 At the moment my main phone Xiaomi 17 ultra 
 
-Telegramm chanel: https://t.me/FurrySecta
+[Telegramm chanel](https://t.me/FurrySecta)
 
 **Let's make your device great!**
