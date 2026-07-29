@@ -8,4 +8,4 @@ At the moment my main phone Xiaomi 17 ultra
 
 Telegramm chanel: https://t.me/FurrySecta
 
-Let's make your device great!
+**Let's make your device great!**
