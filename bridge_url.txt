@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://charger-resolution-sacrifice-dui.trycloudflare.com
