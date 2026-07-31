@@ -1,1 +1,1 @@
-https://podcast-chess-process-functional.trycloudflare.com
+https://api.trycloudflare.com
