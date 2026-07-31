@@ -1,1 +1,1 @@
-https://dog-levels-filename-pants.trycloudflare.com
+https://api.trycloudflare.com
