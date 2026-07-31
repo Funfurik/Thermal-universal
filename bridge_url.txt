@@ -1,1 +1,1 @@
-https://studio-subject-survival-decrease.trycloudflare.com
+https://api.trycloudflare.com
