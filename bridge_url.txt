@@ -1,1 +1,1 @@
-https://candles-zen-donna-bookstore.trycloudflare.com
+https://api.trycloudflare.com
