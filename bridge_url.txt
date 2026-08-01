@@ -1,1 +1,1 @@
-https://surgeon-sensitivity-salmon-dollar.trycloudflare.com
+https://api.trycloudflare.com
