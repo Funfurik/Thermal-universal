@@ -1,1 +1,1 @@
-https://technological-oriental-remove-sec.trycloudflare.com
+https://api.trycloudflare.com
