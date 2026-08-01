@@ -1,1 +1,1 @@
-https://earn-future-aviation-volumes.trycloudflare.com
+https://api.trycloudflare.com
