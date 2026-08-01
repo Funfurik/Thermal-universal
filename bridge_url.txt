@@ -1,1 +1,1 @@
-https://dividend-reuters-vintage-cancellation.trycloudflare.com
+https://api.trycloudflare.com
