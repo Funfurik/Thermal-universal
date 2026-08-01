@@ -1,1 +1,1 @@
-https://operators-receipt-intro-kong.trycloudflare.com
+https://api.trycloudflare.com
