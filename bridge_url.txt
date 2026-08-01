@@ -1,1 +1,1 @@
-https://fishing-final-matters-inns.trycloudflare.com
+https://api.trycloudflare.com
