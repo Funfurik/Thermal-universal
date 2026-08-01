@@ -1,1 +1,1 @@
-https://reid-colored-estimate-baking.trycloudflare.com
+https://api.trycloudflare.com
