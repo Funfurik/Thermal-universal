@@ -1,1 +1,1 @@
-https://honolulu-shoot-dial-staying.trycloudflare.com
+https://api.trycloudflare.com
