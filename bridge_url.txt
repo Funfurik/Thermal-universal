@@ -1,1 +1,1 @@
-https://networks-hose-suit-standings.trycloudflare.com
+https://api.trycloudflare.com
