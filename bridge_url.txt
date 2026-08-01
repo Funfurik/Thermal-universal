@@ -1,1 +1,1 @@
-https://defendant-rates-politics-senator.trycloudflare.com
+https://api.trycloudflare.com
