@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://stanford-indices-celebs-conditions.trycloudflare.com
