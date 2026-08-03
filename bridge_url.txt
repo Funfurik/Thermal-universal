@@ -1,1 +1,1 @@
-https://carbon-haven-lauren-indicator.trycloudflare.com
+https://api.trycloudflare.com
