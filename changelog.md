@@ -1,5 +1,23 @@
 # Danger Thermal Universal — changelog
 
+
+## v4.9.30-alpha
+- Remove thermal files and set custom for u
+
+- 🇷🇺 Как применить отключение thermal (замена файлов):
+1. Прошей модуль в KernelSU/APatch/SukiSU, перезагрузись.
+2. WebUI модуля → вкладка Thermal → панель монтирования.
+3. «Сканировать» → отметь файлы (или «Рекомендованные») → «Применить».
+4. Перезагрузка — заглушки монтируются поверх оригиналов (OverlayFS), thermal отключён.
+⚠️ Не загрузилось за 90с → модуль сам отключится и перезагрузит.
+
+🇬🇧 How to apply thermal disable (file replacement):
+1. Flash the module in KernelSU/APatch/SukiSU, reboot.
+2. Module WebUI → Thermal tab → mount panel.
+3. "Scan" → check files (or "Recommended") → "Apply".
+4. Reboot — stubs mount over originals (OverlayFS), thermal disabled.
+⚠️ If it doesn't boot within 90s, the module auto-disables and reboots.
+
 ## v4.9.23-alpha
 - Fix: after recent updates the WebUI could load blank and the AI-assistant chat and license/key activation would not bind — the info tiles showed only dashes, the device ID read "—", and temperature changes did not apply. This build restores the interface and re-syncs the module's internal integrity anchor, so the WebUI, the chat, key activation and thermal control all work again.
 - No change to thermal, overlay or FPS behavior — those keep working.
