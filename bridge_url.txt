@@ -1,1 +1,1 @@
-https://add-holes-somewhat-questions.trycloudflare.com
+https://api.trycloudflare.com
