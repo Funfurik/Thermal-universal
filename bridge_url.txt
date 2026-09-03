@@ -1,1 +1,1 @@
-https://sellers-catalogue-enquiry-opportunities.trycloudflare.com
+https://api.trycloudflare.com
