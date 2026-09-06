@@ -1,1 +1,1 @@
-https://cos-services-plots-knife.trycloudflare.com
+https://api.trycloudflare.com
