@@ -1,1 +1,1 @@
-https://rarely-shopping-soonest-giant.trycloudflare.com
+https://api.trycloudflare.com
