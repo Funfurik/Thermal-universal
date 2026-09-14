@@ -1,1 +1,1 @@
-https://portrait-tractor-cgi-promo.trycloudflare.com
+https://api.trycloudflare.com
