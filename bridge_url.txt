@@ -1,1 +1,1 @@
-https://veterinary-citysearch-cache-guided.trycloudflare.com
+https://api.trycloudflare.com
