@@ -1,1 +1,1 @@
-https://ferrari-costumes-chemistry-jokes.trycloudflare.com
+https://api.trycloudflare.com
