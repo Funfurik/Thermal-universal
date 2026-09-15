@@ -1,1 +1,1 @@
-https://avatar-automotive-internet-raised.trycloudflare.com
+https://api.trycloudflare.com
