@@ -1,1 +1,1 @@
-https://staying-riders-kiss-annually.trycloudflare.com
+https://api.trycloudflare.com
