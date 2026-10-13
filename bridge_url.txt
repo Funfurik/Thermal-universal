@@ -1,1 +1,1 @@
-https://scoring-day-teaching-status.trycloudflare.com
+https://api.trycloudflare.com
