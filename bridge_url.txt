@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://mozilla-inch-produces-scores.trycloudflare.com
