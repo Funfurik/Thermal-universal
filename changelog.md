@@ -1,6 +1,13 @@
 # Danger Thermal Universal — changelog
 
 
+## v4.9.31-alpha
+- 🇷🇺 Полностью исправлен FPS-оверлей — монитор кадров снова работает стабильно.
+- Добавлены две плитки быстрых настроек (FPS-оверлей и запись) — обе теперь регистрируются и появляются в шторке после перезагрузки.
+
+- 🇬🇧 FPS overlay fully fixed — the frame monitor works reliably again.
+- Added two quick-settings tiles (FPS overlay and recording) — both now register and show up in the quick panel after a reboot.
+
 ## v4.9.30-alpha
 - Remove thermal files and set custom for u
 
