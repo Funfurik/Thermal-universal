@@ -2,11 +2,11 @@
 
 
 ## v4.9.32-alpha
-- 🇷🇺 Переработан оверлей мониторинга: новый рендеринг HUD — масштаб и вид 1:1 с превью в настройках, корректное расположение и стабильный показ поверх игр.
-- 🇷🇺 Исправлено чтение частоты DDR — fpsd снова берёт значение из mccc (как Scene), а не из bus_dcvs.
+- 🇷🇺 Переработан оверлей мониторинга: новый рендеринг HUD — масштаб и вид, корректное расположение и стабильный показ поверх игр.
+- 🇷🇺 Исправлено чтение частоты DDR.
 
-- 🇬🇧 Monitoring overlay reworked: new HUD rendering — scale and look match the in-settings preview 1:1, correct placement and stable display over games.
-- 🇬🇧 Fixed DDR frequency reading — fpsd now reads mccc (like Scene) instead of bus_dcvs.
+- 🇬🇧 Monitoring overlay reworked: new HUD rendering — scale and look , correct placement and stable display over games.
+- 🇬🇧 Fixed DDR frequency reading.
 
 ## v4.9.31-alpha
 - 🇷🇺 Полностью исправлен FPS-оверлей — монитор кадров снова работает стабильно.
