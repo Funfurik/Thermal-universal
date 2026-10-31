@@ -1,14 +1,19 @@
 # Danger Thermal Universal — changelog
 
 
+## v4.9.32-alpha
+- 🇷🇺 Переработан оверлей мониторинга: новый рендеринг HUD — масштаб и вид 1:1 с превью в настройках, корректное расположение и стабильный показ поверх игр.
+- 🇷🇺 Исправлено чтение частоты DDR — fpsd снова берёт значение из mccc (как Scene), а не из bus_dcvs.
+
+- 🇬🇧 Monitoring overlay reworked: new HUD rendering — scale and look match the in-settings preview 1:1, correct placement and stable display over games.
+- 🇬🇧 Fixed DDR frequency reading — fpsd now reads mccc (like Scene) instead of bus_dcvs.
+
 ## v4.9.31-alpha
 - 🇷🇺 Полностью исправлен FPS-оверлей — монитор кадров снова работает стабильно.
 - Добавлены две плитки быстрых настроек (FPS-оверлей и запись) — обе теперь регистрируются и появляются в шторке после перезагрузки.
-- 🇷🇺 Исправлено чтение частоты DDR — fpsd снова берёт значение из mccc (как Scene), а не из bus_dcvs.
 
 - 🇬🇧 FPS overlay fully fixed — the frame monitor works reliably again.
 - Added two quick-settings tiles (FPS overlay and recording) — both now register and show up in the quick panel after a reboot.
-- 🇬🇧 Fixed DDR frequency reading — fpsd now reads mccc (like Scene) instead of bus_dcvs.
 
 ## v4.9.30-alpha
 - Remove thermal files and set custom for u
