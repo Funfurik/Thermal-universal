@@ -1,1 +1,1 @@
-{"version":55,"notes":"crop: render-разрешение как в Сцене (BufferQueue w/h producer-слоя вместо geomBufferSize); fix CarX 2608x1200 -> 1657x763; встроенный fpsd 4dd8b575 VER15","ts":1794158716848}
+{"version":56,"notes":"FPS report: цвета и толщина линий графиков 1-в-1 как в Сцене (Scene parity); палитра CPU/GPU/Temp/DDR/Power; embedded fpsd VER15","ts":1794162757198}
