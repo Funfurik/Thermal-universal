@@ -1,1 +1,1 @@
-{"version":57,"notes":"CPU Cycles фикс: среднее по кластеру (масштаб 0..4600M как в оверлее); цвета 1-в-1 Сцена (CPU 6-7 #ff7e00, TEMP #1e88e5); защита от выпадения спящих ядер","ts":1794163970682}
+{"version":58,"notes":"Scene N1 visual parity: 440px container, #ebebeb bg, 10px radius, Scene card paddings/typography, Frame Time 100ms clamp + full-range toggle","ts":1794199679433}
