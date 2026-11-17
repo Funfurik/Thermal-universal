@@ -1,6 +1,10 @@
 # Danger Thermal Universal — changelog
 
 
+## v4.9.34-alpha
+- 🇷🇺 Исправлена запись и сохранение настроек PMIC в webui_boot.sh: введённые температуры теперь стабильно сохраняются в автозагрузку и применяются при старте системы без сброса на 95°C.
+- 🇬🇧 Fixed PMIC temperature saving in webui_boot.sh: configured limits now persist cleanly into startup and apply on boot without falling back to 95°C.
+
 ## v4.9.33-alpha
 - 🇷🇺 Обновления интерфейса (OTA) теперь приходят напрямую через GitHub — баннер «Доступно обновление интерфейса» снова работает там, где прежний канал был заблокирован.
 
