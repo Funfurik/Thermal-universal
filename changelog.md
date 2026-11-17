@@ -1,6 +1,10 @@
 # Danger Thermal Universal — changelog
 
 
+## v4.9.35-alpha
+- 🇷🇺 Нативный фикс сохранения PMIC в WebUI и webui_boot.sh: значение температуры PMIC теперь напрямую передаётся в автозагрузку при сохранении конфигурации.
+- 🇬🇧 Native fix for PMIC limit persistence in WebUI and webui_boot.sh: PMIC temperature is directly passed into boot config on save.
+
 ## v4.9.34-alpha
 - 🇷🇺 Исправлена запись и сохранение настроек PMIC в webui_boot.sh: введённые температуры теперь стабильно сохраняются в автозагрузку и применяются при старте системы без сброса на 95°C.
 - 🇬🇧 Fixed PMIC temperature saving in webui_boot.sh: configured limits now persist cleanly into startup and apply on boot without falling back to 95°C.
